@@ -5,3 +5,7 @@
 h1{
     float: left;
 }
+.home{
+    float: right;
+    color: brown;
+}
