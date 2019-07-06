@@ -8,4 +8,8 @@ h1{
 .home{
     float: right;
     color: brown;
+    display: inline;
+}
+p{
+    text-align: left;
 }
