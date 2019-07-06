@@ -4,12 +4,25 @@
 }
 h1{
     float: left;
+    margin-top: 0px;
 }
 .home{
     float: right;
     color: brown;
     display: inline;
+    text-align: justify;
 }
-p{
+.home li{
+    display: inline-block;
+    margin-top: 0;
+}
+.home li a{
+    color: goldenrod;
+}
+h3{
     text-align: left;
+    margin-top: 40px;
+}
+.center{
+    text-align: end;
 }
