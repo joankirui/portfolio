@@ -18,6 +18,8 @@ h1{
 }
 .home li a{
     color: goldenrod;
+    font-size: 20px;
+    border: 2px solid whitesmoke;
 }
 h3{
     text-align: left;
