@@ -21,5 +21,9 @@ h3{
     color: rgb(42, 44, 165);
 }
 body{
-    background-color: hotpink;
+    background-color: rgb(134, 115, 125);
+}
+img{
+    width: 50%;
+    height: 50%;
 }
