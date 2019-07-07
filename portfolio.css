@@ -13,12 +13,13 @@ h3{
 .center{
     text-align: end;
 }
-.about{
-    color: blue;
-}
 .index{
     float: right;
 }
 .about{
     float: right;
+    color: rgb(42, 44, 165);
+}
+body{
+    background-color: hotpink;
 }
