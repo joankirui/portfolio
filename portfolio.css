@@ -6,20 +6,6 @@ h1{
     float: left;
     margin-top: 0px;
 }
-.home{
-    float: right;
-    color: brown;
-    display: inline;
-    text-align: justify;
-}
-.home li{
-    display: inline-block;
-    margin-top: 0;
-}
-.home li a{
-    color: goldenrod;
-    font-size: 20px;
-}
 h3{
     text-align: left;
     margin-top: 40px;
@@ -27,12 +13,12 @@ h3{
 .center{
     text-align: end;
 }
-.home li.done a{
-    border: 2px solid burlywood;
-}
-.home li a:hover{
-    border: 2px solid burlywood;
-}
 .about{
     color: blue;
+}
+.index{
+    float: right;
+}
+.about{
+    float: right;
 }
